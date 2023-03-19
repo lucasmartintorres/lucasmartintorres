@@ -9,13 +9,13 @@
 ---
 ### Sobre mí
 
- - 📝 Soy Estudiante de Alura Latam, becado por Oracle Next Education
+ - 📝 Soy Estudiante de **Alura Latam**, **becado por Oracle Next Education**
 
  - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
 
- - 📌 Mi objetivo es crear aplicaciones web ##Full Stack##
+ - 📌 Mi objetivo es crear aplicaciones web **Full Stack**
 
- - 💼  Estoy trabajando en proyectos personales del lado del ##Frontend##
+ - 💼  Estoy trabajando en proyectos personales del lado del **Frontend**
 
 ---
 ### Podes encontrarme en
