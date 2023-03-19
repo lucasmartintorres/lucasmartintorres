@@ -1,8 +1,8 @@
 <div id="header" align = "center">
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmMTY2MDU3ZWQ4MTI0MmE0ZWExYjc2ZjgzOWIzMjAxY2E0ODI2ZCZjdD1n/l3q2KRkOVYvi8WfU4/giphy.gif" width="200" alt="Gif animado de gatitos">
- <h1 align="center"> 👋Hola soy Lucas Martin </h1>
+ <h1 align="center"> !Hola! soy Lucas Martin 👋</h1>
  <h3> 
-  Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología.      Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica lo aprendido.
+  Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología. Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica todo lo aprendido.
  </h3>
 </div>
 <div align="center">
@@ -23,11 +23,19 @@
   <!-- Git --->
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40">
   <!-- Github --->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GITHUB" alt="GITHUB" width="40" height="40">
   <!-- Figma -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="FIGMA" alt="FIGMA" width="40" height="40">
   <!-- Trello -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="TRELLO" alt="TRELLO" width="40" height="40">
  </div>
+</div>
+<div align = left > 
+ <h3> Sobre mí: </h3>
+ - Actualmente estoy aprendiendo Flask, Django, Node Js y Mongo DB. 
+ - 
+ -
+ -
+
 </div>
 
