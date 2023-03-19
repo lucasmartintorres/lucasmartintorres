@@ -7,18 +7,18 @@
 </div>
 
 ---
-### Sobre mí: 
+### Sobre mí
 
- - 📝 Soy Estudiante de Alura Latam, becado por Oracle
+ - 📝 Soy Estudiante de Alura Latam [https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE,](https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE) becado por Oracle Next Education [https://www.oracle.com/ar/education/oracle-next-education/] (https://www.oracle.com/ar/education/oracle-next-education/)
 
  - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
 
- - 📌 Mi objetivo es ser Full Stack Developer
+ - 📌 Mi objetivo es crear aplicaciones web ##Full Stack##
 
- - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
+ - 💼  Estoy trabajando en proyectos personales del lado del ##Frontend##
 
 ---
-### Podes encontrarme en: 
+### Podes encontrarme en
 
  - Linkedin [https://www.linkedin.com/in/lucasmartintorres/](https://www.linkedin.com/in/lucasmartintorres/)
  
