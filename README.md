@@ -2,7 +2,7 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDBmMTY2MDU3ZWQ4MTI0MmE0ZWExYjc2ZjgzOWIzMjAxY2E0ODI2ZCZjdD1n/l3q2KRkOVYvi8WfU4/giphy.gif" width="200" alt="Gif animado de gatitos">
  <h1 align="center"> !Hola! soy Lucas Martin 👋</h1>
  <h3> 
-  Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología. Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica todo lo aprendido.
+  Frontend Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología. Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica todo lo aprendido.
  </h3>
 </div>
 <div align="center">
@@ -32,10 +32,17 @@
 </div>
 <div align = left > 
  <h3> Sobre mí: </h3>
- - Actualmente estoy aprendiendo Flask, Django, Node Js y Mongo DB. 
- - 
- -
- -
-
+ - 📝 Soy Estudiante de Alura Latam, becado por Oracle
+ - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
+ - 📌 Mi objetivo es ser Full Stack Developer
+ - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
 </div>
-
+<div id="badges" align = left > 
+ <h3> Podes encontrarme en: </h3>
+  <a href="https://www.linkedin.com/in/lucasmartintorres/">  
+   <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="linkedin badge">
+  </a>
+  <a href="https://www.instagram.com/lucasmartinmenssana/">  
+   <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="instagram badge">
+  </a>
+</div>
