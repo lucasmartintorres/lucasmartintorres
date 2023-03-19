@@ -6,7 +6,7 @@
  </h3>
 </div>
 
---
+---
 ### Sobre mí: 
 
  - 📝 Soy Estudiante de Alura Latam, becado por Oracle
@@ -17,15 +17,14 @@
 
  - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
 
---
+---
 ### Podes encontrarme en: 
+
+ - Linkedin [https://www.linkedin.com/in/lucasmartintorres/](https://www.linkedin.com/in/lucasmartintorres/)
  
-  <a href="https://www.linkedin.com/in/lucasmartintorres/">  
-   <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="linkedin badge">
-  </a>
-  <a href="https://www.instagram.com/lucasmartinmenssana/">  
-   <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="instagram badge">
-  </a>
+ -  Instagram [https://www.instagram.com/lucasmartinmenssana/](https://www.instagram.com/lucasmartinmenssana/) Instagram 
+
+  
 --- 
 
  <h3> Lenguajes y herramientas </h3>
