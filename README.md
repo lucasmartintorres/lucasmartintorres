@@ -9,7 +9,7 @@
 ---
 ### Sobre mí
 
- - 📝 Soy Estudiante de Alura Latam [https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE,](https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE) becado por Oracle Next Education [https://www.oracle.com/ar/education/oracle-next-education/] (https://www.oracle.com/ar/education/oracle-next-education/)
+ - 📝 Soy Estudiante de Alura Latam [https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE](https://www.aluracursos.com/?gclid=CjwKCAjw5dqgBhBNEiwA7PryaAfbxq0m5Yw4aNCLQ51M50iZiIgMkbjVEaTQwqkPRKcMgkMNh6folhoCGmQQAvD_BwE) becado por Oracle Next Education [https://www.oracle.com/ar/education/oracle-next-education/](https://www.oracle.com/ar/education/oracle-next-education/)
 
  - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
 
