@@ -5,7 +5,27 @@
   Frontend Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología. Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica todo lo aprendido.
  </h3>
 </div>
-<div align="center">
+---
+### Sobre mí: 
+
+ - 📝 Soy Estudiante de Alura Latam, becado por Oracle
+
+ - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
+
+ - 📌 Mi objetivo es ser Full Stack Developer
+
+ - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
+
+---
+### Podes encontrarme en: 
+ 
+  <a href="https://www.linkedin.com/in/lucasmartintorres/">  
+   <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="linkedin badge">
+  </a>
+  <a href="https://www.instagram.com/lucasmartinmenssana/">  
+   <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="instagram badge">
+  </a>
+--- 
  <h3> Lenguajes y herramientas </h3>
  <div id="languages-tools">
   <!-- Html --->
@@ -29,20 +49,4 @@
   <!-- Trello -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="TRELLO" alt="TRELLO" width="40" height="40">
  </div>
-</div>
-<div align = left > 
- <h3> Sobre mí: </h3>
- - 📝 Soy Estudiante de Alura Latam, becado por Oracle
- - 🌱 Actualmente estoy aprendiendo **Flask, Django, Node Js y Mongo DB**
- - 📌 Mi objetivo es ser Full Stack Developer
- - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
-</div>
-<div id="badges" align = left > 
- <h3> Podes encontrarme en: </h3>
-  <a href="https://www.linkedin.com/in/lucasmartintorres/">  
-   <img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" alt="linkedin badge">
-  </a>
-  <a href="https://www.instagram.com/lucasmartinmenssana/">  
-   <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="instagram badge">
-  </a>
 </div>
