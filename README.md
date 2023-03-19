@@ -5,7 +5,8 @@
   Frontend Trainee Developer en busca de nuevas oportunidades para aprender y crecer en el campo del desarrollo de software. Me apasiona la programación y la tecnología. Actualmente me encuentro trabajando en proyectos personales en lo cuáles voy poniendo en práctica todo lo aprendido.
  </h3>
 </div>
----
+
+--
 ### Sobre mí: 
 
  - 📝 Soy Estudiante de Alura Latam, becado por Oracle
@@ -16,7 +17,7 @@
 
  - 💼 Me encuentro trabajando en proyectos y en mi sitio personal
 
----
+--
 ### Podes encontrarme en: 
  
   <a href="https://www.linkedin.com/in/lucasmartintorres/">  
@@ -26,6 +27,7 @@
    <img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>" alt="instagram badge">
   </a>
 --- 
+
  <h3> Lenguajes y herramientas </h3>
  <div id="languages-tools">
   <!-- Html --->
